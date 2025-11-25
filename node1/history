@@ -1,0 +1,6 @@
+clique.getSigners()
+let {clique} = "geth"
+clique.getSigners()
+eth.getBlock(0)
+clique.getSigners()
+eth.blockNumber
